@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlainForms</string>
+    <string name="activity_main__txt_first__hint">First Name</string>
+    <string name="activity_main__txt_last__hint">Last Name</string>
+    <string name="activity_main__txt_email__hint">Email</string>
+    <string name="activity_main_btn_submit__text">Email</string>
+    <string name="field_required">Required</string>
+    <string name="field_email_required">Valid Email Required</string>
+</resources>
